@@ -1,0 +1,4 @@
+export const SET_USER = 'SET_USER';
+export const SET_ROLE = 'SET_ROLE';
+export const SET_LOCATION_PERMISSION = 'SET_LOCATION_PERMISSION';
+export const TOGGLE_DARK_MODE = 'TOGGLE_DARK_MODE';
